@@ -1,5 +1,5 @@
 ### Hi there, I am Shivang Chopra :) <br>
-I am a second year Master's student at Georgia Tech.
+I am a Ph.D. student in Computer Science at Georgia Institute of Technology.
 <!--
 **shivangchopra11/shivangchopra11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="shiv11chopra | Twitter" title="shiv11chopra" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/shiv11chopra)
 
-[<img align="left" alt="shivangchopra11@gmail.com | E-mail" title="shivangchopra11@gmail.com" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg"/>](mailto:shivangchopra11@gmail.com)
+[<img align="left" alt="shivangchopra11@gatech.edu | E-mail" title="shivangchopra11@gatech.edu" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg"/>](mailto:shivangchopra11@gatech.edu)
 
 <br/>
 
