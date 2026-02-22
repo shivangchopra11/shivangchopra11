@@ -19,9 +19,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Multimodality, Domain Adaptation, Computer Vision.
 <br/>
 
-### Hit Counter
-
-![Visitor Count](https://profile-counter.glitch.me/shivangchopra11/count.svg)
 
 ### Connect with me:
 
