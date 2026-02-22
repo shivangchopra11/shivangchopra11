@@ -50,8 +50,5 @@ Here are some ideas to get you started:
 <br/><br/>
 
 ---
-
-<img align="left" alt="shivangchopra11's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shivangchopra11&show_icons=true&hide_border=true" />
-
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivangchopra11"/>
 
